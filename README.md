@@ -1,14 +1,31 @@
 # uECG
-
-## What it is
-
+a tiny board for wireless ECG signal capture and transmission
+HJ-840 (nRF52840) + AD8232 + LSM6DSRTR / STR-C
 ## Why I made it
-
-## 3D model
+school project, need i say more? i did, however, find working in such a space constraint very enjoyable -- defo a board i'm proud of. 
 
 ## PCB design
+4L, S + G + G + S, meant for JLC's 3313 stackup
+![](image_2.png)
+> top layer
+
+![](image_3.png)
+> bottom layer 
+
+
 
 ## Schematic
+
+![](images/image.png)
+
+## Renders
+![](images/top_view.png)
+![](image_1.png)
+> top side
+![](images/bottom_view.png)
+![](image.png)
+> bottom side
+
 
 ## Wiring diagram
 
@@ -37,16 +54,21 @@
 | R3 | 10k 1% 62.5mW 0402 | 1 | [C25744](https://www.lcsc.com/product-detail/C25744.html) | 0402WGF1002TCE | UNI-ROYAL | basic | 11639800 | 100 | 0.0011 | 0.1100 | |
 | R8 R9 R16 R17 R25 | 10M 1% 62.5mW 0402 | 5 | [C26082](https://www.lcsc.com/product-detail/C26082.html) | 0402WGF1005TCE | UNI-ROYAL | preferred | 1234800 | 100 | 0.0012 | 0.1200 | |
 | R21 | 360k 1% 62.5mW 0402 | 1 | [C45956](https://www.lcsc.com/product-detail/C45956.html) | 0402WGF3603TCE | UNI-ROYAL | extended | 3500 | 100 | 0.0019 | 0.1900 | |
-| R26 | 332k 1% 333mW 0603 | 1 | [C2086575](https://www.lcsc.com/product-detail/C2086575.html) | CRCW0603332KFKEAHP | Vishay | extended | 0 | 1 | 0.0145 | 0.0145 | Out of stock; estimated price |
+| R26 | 332k 1% 333mW 0603 | 1 | [C2086575](https://www.lcsc.com/product-detail/C2086575.html) | CRCW0603332KFKEAHP | Vishay | extended | 0 | 1 | 0.0145 | 0.0145 |  |
 | DS1 | White LED 0402 | 1 | [C74342](https://www.lcsc.com/product-detail/C74342.html) | 16-219A/T2D-AR2T1QY/3T | Everlight | extended | 10760 | 20 | 0.0387 | 0.7740 | Original |
 | D1 D2 | ESD protection X1-SON-2 | 2 | [C2868952](https://www.lcsc.com/product-detail/C2868952.html) | ESD321DPYR | TI | extended | 1595 | 5 | 0.1315 | 0.6575 | Original |
-| U7 | USB-C receptacle | 1 | [C165948](https://www.lcsc.com/product-detail/C165948.html) | TYPE-C-31-M-12 | Korean Hroparts Elec | extended | 447620 | 5 | 0.1888 | 0.9440 | User specified; verify footprint before assembly |
+| U7 | USB-C receptacle | 1 | [C165948](https://www.lcsc.com/product-detail/C165948.html) | TYPE-C-31-M-12 | Korean Hroparts Elec | extended | 447620 | 5 | 0.1888 | 0.9440 |  |
 | U1 | BQ25185 battery charger | 1 | [C19725033](https://www.lcsc.com/product-detail/C19725033.html) | BQ25185DLHR | TI | extended | 5172 | 1 | 1.6590 | 1.6590 | Original |
 | U2 | 3.3V 500mA LDO | 1 | [C622490](https://www.lcsc.com/product-detail/C622490.html) | MIC5528-3.3YMT-TR | Microchip | extended | 1131 | 1 | 0.5369 | 0.5369 | Original |
 | U3 | LSM6DSR inertial sensor | 1 | [C967633](https://www.lcsc.com/product-detail/C967633.html) | LSM6DSRTR | ST | extended | 4045 | 1 | 3.0976 | 3.0976 | Original |
 | U4 | HJ-840 BLE module | 1 | [C50052094](https://www.lcsc.com/product-detail/C50052094.html) | HJ-840 | HJSIP | extended | 85 | 1 | 8.0358 | 8.0358 | Original |
-| U5 | AD8232 ECG front end | 1 | [C43216](https://www.lcsc.com/product-detail/C43216.html) | AD8232ACPZ-R7 | ADI | extended | 1575 | 1 | 6.7695 | 6.7695 | Same device and package as WP; reel packaging |
-| TP3 TP4 TP5 TP6 | Copper test pads | 4 | | | | | | | | | No purchased component |
+| U5 | AD8232 ECG front end | 1 | [C43216](https://www.lcsc.com/product-detail/C43216.html) | AD8232ACPZ-R7 | ADI | extended | 1575 | 1 | 6.7695 | 6.7695 |  |
+| TP3 TP4 TP5 TP6 | Copper test pads | 4 | | | | | | | | | DNP |
 | | In-stock parts subtotal | | | | | | | | | 31.6288 | |
-| | Estimated shipping | | | | | | | | | 9.0000 | |
-| | Estimated total | | | | | | | | | 40.6433 | Includes R26 and shipping; excludes taxes, PCB fabrication, assembly and other project items |
+| | Estimated shipping | | | | | | | | | 9.0000 | UPS Express Standard  |
+| | Fabrication | | | | | | | | | 8.0000 | JLC 4L 3313  |
+| | Estimated total | | | | | | | | | 48.6433 |  |
+
+### TODO
+- manufacturability
+- retune USB impedance
