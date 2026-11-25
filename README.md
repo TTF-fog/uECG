@@ -1,5 +1,5 @@
 # uECG
-a tiny board for wireless ECG signal capture and transmission.
+a tiny board (18.92 × 18.60 mm) for wireless ECG signal capture and transmission.
 
 HJ-840 (nRF52840) + AD8232 + LSM6DSRTR / STR-C
 
