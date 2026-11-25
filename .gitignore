@@ -12,3 +12,6 @@ __pycache__/
 **/*-backups/
 *.PcbDoc.LOG
 /uECG-recovered-v476.PcbDoc
+/journal/
+/uECG/
+/AltiumHistoryExport/

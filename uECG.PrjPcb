@@ -50,23 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=AltiumHistoryExport\AltiumHistoryExport.pas
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document2]
 DocumentPath=uECG.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +66,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTWHHOMO
 
-[Document3]
+[Document2]
 DocumentPath=..\..\..\..\Autumn\Documents\AltiumEE\EasyEDA.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMOLSJZH
 
-[Document4]
+[Document3]
 DocumentPath=Sheet1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MHRNRGZB
 
-[Document5]
+[Document4]
 DocumentPath=..\..\..\..\Autumn\Documents\AltiumEE\EasyEDA.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XPHKRPYD
 
-[Document6]
+[Document5]
 DocumentPath=..\..\..\..\Autumn\Imported TestPoint_Pad_D1.0mm\kicad-footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VCLQRNMG
 
-[Document7]
+[Document6]
 DocumentPath=..\..\..\..\Autumn\Downloads\LIB_ADS1292IRSMT\ADS1292IRSMT\Altium\QFN40P400X400X100-33N-D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ARRLGXWA
 
-[Document8]
+[Document7]
 DocumentPath=..\..\..\..\Autumn\Downloads\LIB_ADS1292IRSMT\ADS1292IRSMT\Altium\ADS1292IRSMT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BGODPYXI
 
-[Document9]
+[Document8]
 DocumentPath=..\..\..\..\Autumn\Downloads\LIB_MAX30003CTI+\MAX30003CTI+\Altium\QFN50P500X500X80-29N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CAVTQPVP
 
-[Document10]
+[Document9]
 DocumentPath=..\..\..\..\Autumn\Downloads\LIB_MAX30003CTI+\MAX30003CTI+\Altium\MAX30003CTI+.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPEFKONC
 
-[Document11]
+[Document10]
 DocumentPath=..\..\..\..\Autumn\Downloads\LIB_BQ25175YBGR\BQ25175YBGR\Altium\BGA6C40P2X3_78X112X50.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CCXSQYYC
 
-[Document12]
+[Document11]
 DocumentPath=..\..\..\..\Autumn\Downloads\LIB_BQ25175YBGR\BQ25175YBGR\Altium\BQ25175YBGR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APXRKKXY
 
-[Document13]
+[Document12]
 DocumentPath=..\..\..\..\Autumn\kicad-symbols\Imported USB_C_Receptacle_USB2.0_14P\USB_C_Receptacle_USB2.0_14P.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EDEKCJWI
 
-[Document14]
+[Document13]
 DocumentPath=..\..\..\..\Autumn\kicad-symbols\Imported USB_C_Receptacle_USB2.0_14P\kicad-footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULIFIFVB
 
-[Document15]
+[Document14]
 DocumentPath=..\..\..\..\Autumn\altium-library\Postgres Altium Library - altium_library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=..\..\..\..\Autumn\altium-library\Celestial Altium Library - altium_library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,24 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
-DocumentPath=uECG.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
+[Document16]
 DocumentPath=uECG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNOTQWHT
 
-[Document19]
+[Document17]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WXNFKGXY
 
-[Document20]
+[Document18]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OSDQLJVB
 
-[Document21]
+[Document19]
 DocumentPath=uECG.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document20]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
