@@ -1,5 +1,7 @@
 # uECG
-a tiny board for wireless ECG signal capture and transmission. Made in Altium Designer 26
+a tiny board for wireless ECG signal capture and transmission.
+Made in Altium Designer 26.
+[View](https://pcbview.io/?github=https%3A%2F%2Fgithub.com%2FTTF-fog%2FuECG%2Fblob%2FHEAD%2FuECG.PcbDoc)
 HJ-840 (nRF52840) + AD8232 + LSM6DSRTR / STR-C
 
 files:
