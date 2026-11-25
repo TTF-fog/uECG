@@ -1,0 +1,14 @@
+/History/
+/History Export/
+/Project Logs for uECG/
+/Project Outputs for uECG/
+/__Previews/
+/Sheet1.pdf
+*.PrjPcbStructure
+*.lck
+*.kicad_prl
+__pycache__/
+**/History/
+**/*-backups/
+*.PcbDoc.LOG
+/uECG-recovered-v476.PcbDoc

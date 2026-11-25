@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "USB_C_Receptacle_USB2.0_14P") (type "Altium") (uri "/run/media/Autumn/Winbloat/Users/Autumn/kicad-symbols/Imported USB_C_Receptacle_USB2.0_14P/USB_C_Receptacle_USB2.0_14P.SchLib") (options "") (descr ""))
+	(lib (name "Schlib1") (type "Altium") (uri "${KIPRJMOD}/Schlib1.SchLib") (options "") (descr ""))
+)

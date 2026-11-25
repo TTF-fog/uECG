@@ -1,0 +1,34 @@
+Designators,Description,Per board,LCSC,MPN,Manufacturer,JLC library,LCSC stock,Order quantity,Unit USD,Order subtotal USD,Notes,Product URL
+"C1 C4",1uF 25V X5R 0402,2,C52923,CL05A105KA5NQNC,Samsung,basic,4335100,100,0.0056,0.5600,C1 and C4 consolidated,https://www.lcsc.com/product-detail/C52923.html
+"C2 C3 C13 C15",100nF 16V X7R 0402,4,C1525,CL05B104KO5NNNC,Samsung,basic,2252100,100,0.0030,0.3000,User approved,https://www.lcsc.com/product-detail/C1525.html
+"C5 C6",2.2uF 16V X5R 0402,2,C170151,CL05A225KO5NQNC,Samsung,extended,573520,20,0.0207,0.4140,Original,https://www.lcsc.com/product-detail/C170151.html
+C7,10uF 25V X5R 0603,1,C96446,CL10A106MA8NRNC,Samsung,basic,457900,20,0.0339,0.6780,Check DC bias,https://www.lcsc.com/product-detail/C96446.html
+"C9 C10 C11",4.7uF 16V X5R 0402,3,C318563,CL05A475MO5NUNC,Samsung,extended,270520,20,0.0196,0.3920,Original,https://www.lcsc.com/product-detail/C318563.html
+C14,1nF 100V C0G 0402,1,C696348,C0402C102K1GECAUTO,KEMET,extended,760,20,0.0411,0.8220,Original,https://www.lcsc.com/product-detail/C696348.html
+C16,6.8nF 50V X7R 0402,1,C93654,CC0402KRX7R9BB682,YAGEO,extended,151900,100,0.0013,0.1300,,https://www.lcsc.com/product-detail/C93654.html
+C17,2.7nF 50V X7R 0402,1,C45185,0402B272K500NT,FH,extended,50700,100,0.0047,0.4700,,https://www.lcsc.com/product-detail/C45185.html
+J1,2-pin right-angle 2.54mm header,1,C588446,705530106,Molex,extended,184,1,1.0817,1.0817,Original; verify PCB and mating connector,https://www.lcsc.com/product-detail/C588446.html
+J3,3-pin right-angle 2.54mm header,1,C505296,705530002,Molex,extended,6056,1,0.8968,0.8968,Original; verify PCB and mating connector,https://www.lcsc.com/product-detail/C505296.html
+R5,3k 1% 62.5mW 0402,1,C25784,0402WGF3001TCE,UNI-ROYAL,extended,487300,100,0.0013,0.1300,,https://www.lcsc.com/product-detail/C25784.html
+"R2 R4 R10 R11",10k 0.1% 100mW 0402,4,C844452,TNPW040210K0BEED,Vishay,extended,50190,10,0.0709,0.7090,,https://www.lcsc.com/product-detail/C844452.html
+R6,18k 1% 62.5mW 0402,1,C25762,0402WGF1802TCE,UNI-ROYAL,preferred,188300,100,0.0013,0.1300,,https://www.lcsc.com/product-detail/C25762.html
+"R14 R24",100k 0.1% 100mW 0402,2,C844674,TNPW0402100KBEED,Vishay,extended,11470,5,0.0862,0.4310,Consolidated higher rated part,https://www.lcsc.com/product-detail/C844674.html
+"R19 R20",330k 1% 62.5mW 0402,2,C25778,0402WGF3303TCE,UNI-ROYAL,preferred,405400,100,0.0013,0.1300,,https://www.lcsc.com/product-detail/C25778.html
+R1,1k 0.1% 62.5mW 0402,1,C852624,RT0402BRD071KL,Yageo,extended,256050,50,0.0244,1.2200,,https://www.lcsc.com/product-detail/C852624.html
+"R22 R23 R27",1M 1% 62.5mW 0402,3,C26083,0402WGF1004TCE,UNI-ROYAL,basic,1517500,100,0.0010,0.1000,,https://www.lcsc.com/product-detail/C26083.html
+"R12 R13",5.1k 1% 62.5mW 0402,2,C25905,0402WGF5101TCE,UNI-ROYAL,basic,707500,100,0.0014,0.1400,,https://www.lcsc.com/product-detail/C25905.html
+R3,10k 1% 62.5mW 0402,1,C25744,0402WGF1002TCE,UNI-ROYAL,basic,11639800,100,0.0011,0.1100,,https://www.lcsc.com/product-detail/C25744.html
+"R8 R9 R16 R17 R25",10M 1% 62.5mW 0402,5,C26082,0402WGF1005TCE,UNI-ROYAL,preferred,1234800,100,0.0012,0.1200,,https://www.lcsc.com/product-detail/C26082.html
+R21,360k 1% 62.5mW 0402,1,C45956,0402WGF3603TCE,UNI-ROYAL,extended,3500,100,0.0019,0.1900,,https://www.lcsc.com/product-detail/C45956.html
+R26,332k 1% 333mW 0603,1,C2086575,CRCW0603332KFKEAHP,Vishay,extended,0,1,0.0145,0.0145,Out of stock; estimated price,https://www.lcsc.com/product-detail/C2086575.html
+DS1,White LED 0402,1,C74342,16-219A/T2D-AR2T1QY/3T,Everlight,extended,10760,20,0.0387,0.7740,Original,https://www.lcsc.com/product-detail/C74342.html
+"D1 D2",ESD protection X1-SON-2,2,C2868952,ESD321DPYR,TI,extended,1595,5,0.1315,0.6575,Original,https://www.lcsc.com/product-detail/C2868952.html
+U7,USB-C receptacle,1,C165948,TYPE-C-31-M-12,Korean Hroparts Elec,extended,447620,5,0.1888,0.9440,User specified; verify footprint before assembly,https://www.lcsc.com/product-detail/C165948.html
+U1,BQ25185 battery charger,1,C19725033,BQ25185DLHR,TI,extended,5172,1,1.6590,1.6590,Original,https://www.lcsc.com/product-detail/C19725033.html
+U2,3.3V 500mA LDO,1,C622490,MIC5528-3.3YMT-TR,Microchip,extended,1131,1,0.5369,0.5369,Original,https://www.lcsc.com/product-detail/C622490.html
+U3,LSM6DSR inertial sensor,1,C967633,LSM6DSRTR,ST,extended,4045,1,3.0976,3.0976,Original,https://www.lcsc.com/product-detail/C967633.html
+U4,HJ-840 BLE module,1,C50052094,HJ-840,HJSIP,extended,85,1,8.0358,8.0358,Original,https://www.lcsc.com/product-detail/C50052094.html
+U5,AD8232 ECG front end,1,C43216,AD8232ACPZ-R7,ADI,extended,1575,1,6.7695,6.7695,Same device and package as WP; reel packaging,https://www.lcsc.com/product-detail/C43216.html
+"TP3 TP4 TP5 TP6",Copper test pads,4,,,,,,,,,No purchased component,
+SHIPPING,,,,,,,,,,9.0000,User estimate,
+TOTAL,Estimated parts and shipping,,,,,,,,,40.6433,Includes estimated R26; excludes taxes PCB fabrication assembly and other project items,
