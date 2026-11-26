@@ -83,3 +83,7 @@ school project, need i say more? i did, however, find working in such a space co
 - retune USB impedance
 
 Made in Altium Designer 26.
+
+### AI Declaration
+used for dummy work -- compiling the BOM, some research, directory organisation and reformatting one symbol.
+All design assets are otherwise created by me
