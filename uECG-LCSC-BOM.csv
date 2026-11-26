@@ -1,36 +1,37 @@
-"Designators","Description","Per board","LCSC","MPN","Manufacturer","JLC library","LCSC stock","Order quantity","Unit USD","Order subtotal USD","Notes"
-"C1 C4","1uF 25V X5R 0402","2","[C52923](https://www.lcsc.com/product-detail/C52923.html)","CL05A105KA5NQNC","Samsung","basic","4335100","100","0.0056","0.5600","C1 and C4 consolidated"
-"C2 C3 C13 C15","100nF 16V X7R 0402","4","[C1525](https://www.lcsc.com/product-detail/C1525.html)","CL05B104KO5NNNC","Samsung","basic","2252100","100","0.0030","0.3000","User approved"
-"C5 C6","2.2uF 16V X5R 0402","2","[C170151](https://www.lcsc.com/product-detail/C170151.html)","CL05A225KO5NQNC","Samsung","extended","573520","20","0.0207","0.4140","Original"
-"C7","10uF 25V X5R 0603","1","[C96446](https://www.lcsc.com/product-detail/C96446.html)","CL10A106MA8NRNC","Samsung","basic","457900","20","0.0339","0.6780","Check DC bias"
-"C9 C10 C11","4.7uF 16V X5R 0402","3","[C318563](https://www.lcsc.com/product-detail/C318563.html)","CL05A475MO5NUNC","Samsung","extended","270520","20","0.0196","0.3920","Original"
-"C14","1nF 100V C0G 0402","1","[C696348](https://www.lcsc.com/product-detail/C696348.html)","C0402C102K1GECAUTO","KEMET","extended","760","20","0.0411","0.8220","Original"
-"C16","6.8nF 50V X7R 0402","1","[C93654](https://www.lcsc.com/product-detail/C93654.html)","CC0402KRX7R9BB682","YAGEO","extended","151900","100","0.0013","0.1300",""
-"C17","2.7nF 50V X7R 0402","1","[C45185](https://www.lcsc.com/product-detail/C45185.html)","0402B272K500NT","FH","extended","50700","100","0.0047","0.4700",""
-"J1","2-pin right-angle 2.54mm header","1","[C588446](https://www.lcsc.com/product-detail/C588446.html)","705530106","Molex","extended","184","1","1.0817","1.0817","Original; verify PCB and mating connector"
-"J3","3-pin right-angle 2.54mm header","1","[C505296](https://www.lcsc.com/product-detail/C505296.html)","705530002","Molex","extended","6056","1","0.8968","0.8968","Original; verify PCB and mating connector"
-"R5","3k 1% 62.5mW 0402","1","[C25784](https://www.lcsc.com/product-detail/C25784.html)","0402WGF3001TCE","UNI-ROYAL","extended","487300","100","0.0013","0.1300",""
-"R2 R4 R10 R11","10k 0.1% 100mW 0402","4","[C844452](https://www.lcsc.com/product-detail/C844452.html)","TNPW040210K0BEED","Vishay","extended","50190","10","0.0709","0.7090",""
-"R6","18k 1% 62.5mW 0402","1","[C25762](https://www.lcsc.com/product-detail/C25762.html)","0402WGF1802TCE","UNI-ROYAL","preferred","188300","100","0.0013","0.1300",""
-"R14 R24","100k 0.1% 100mW 0402","2","[C844674](https://www.lcsc.com/product-detail/C844674.html)","TNPW0402100KBEED","Vishay","extended","11470","5","0.0862","0.4310","Consolidated higher rated part"
-"R19 R20","330k 1% 62.5mW 0402","2","[C25778](https://www.lcsc.com/product-detail/C25778.html)","0402WGF3303TCE","UNI-ROYAL","preferred","405400","100","0.0013","0.1300",""
-"R1","1k 0.1% 62.5mW 0402","1","[C852624](https://www.lcsc.com/product-detail/C852624.html)","RT0402BRD071KL","Yageo","extended","256050","50","0.0244","1.2200",""
-"R22 R23 R27","1M 1% 62.5mW 0402","3","[C26083](https://www.lcsc.com/product-detail/C26083.html)","0402WGF1004TCE","UNI-ROYAL","basic","1517500","100","0.0010","0.1000",""
-"R12 R13","5.1k 1% 62.5mW 0402","2","[C25905](https://www.lcsc.com/product-detail/C25905.html)","0402WGF5101TCE","UNI-ROYAL","basic","707500","100","0.0014","0.1400",""
-"R3","10k 1% 62.5mW 0402","1","[C25744](https://www.lcsc.com/product-detail/C25744.html)","0402WGF1002TCE","UNI-ROYAL","basic","11639800","100","0.0011","0.1100",""
-"R8 R9 R16 R17 R25","10M 1% 62.5mW 0402","5","[C26082](https://www.lcsc.com/product-detail/C26082.html)","0402WGF1005TCE","UNI-ROYAL","preferred","1234800","100","0.0012","0.1200",""
-"R21","360k 1% 62.5mW 0402","1","[C45956](https://www.lcsc.com/product-detail/C45956.html)","0402WGF3603TCE","UNI-ROYAL","extended","3500","100","0.0019","0.1900",""
-"R26","332k 1% 333mW 0603","1","[C2086575](https://www.lcsc.com/product-detail/C2086575.html)","CRCW0603332KFKEAHP","Vishay","extended","0","1","0.0145","0.0145",""
-"DS1","White LED 0402","1","[C74342](https://www.lcsc.com/product-detail/C74342.html)","16-219A/T2D-AR2T1QY/3T","Everlight","extended","10760","20","0.0387","0.7740","Original"
-"D1 D2","ESD protection X1-SON-2","2","[C2868952](https://www.lcsc.com/product-detail/C2868952.html)","ESD321DPYR","TI","extended","1595","5","0.1315","0.6575","Original"
-"U7","USB-C receptacle","1","[C165948](https://www.lcsc.com/product-detail/C165948.html)","TYPE-C-31-M-12","Korean Hroparts Elec","extended","447620","5","0.1888","0.9440",""
-"U1","BQ25185 battery charger","1","[C19725033](https://www.lcsc.com/product-detail/C19725033.html)","BQ25185DLHR","TI","extended","5172","1","1.6590","1.6590","Original"
-"U2","3.3V 500mA LDO","1","[C622490](https://www.lcsc.com/product-detail/C622490.html)","MIC5528-3.3YMT-TR","Microchip","extended","1131","1","0.5369","0.5369","Original"
-"U3","LSM6DSR inertial sensor","1","[C967633](https://www.lcsc.com/product-detail/C967633.html)","LSM6DSRTR","ST","extended","4045","1","3.0976","3.0976","Original"
-"U4","HJ-840 BLE module","1","[C50052094](https://www.lcsc.com/product-detail/C50052094.html)","HJ-840","HJSIP","extended","85","1","8.0358","8.0358","Original"
-"U5","AD8232 ECG front end","1","[C43216](https://www.lcsc.com/product-detail/C43216.html)","AD8232ACPZ-R7","ADI","extended","1575","1","6.7695","6.7695",""
-"TP3 TP4 TP5 TP6","Copper test pads","4","","","","","","","","","DNP"
-"","In-stock parts subtotal","","","","","","","","","31.6288",""
-"","Estimated shipping","","","","","","","","","9.0000","UPS Express Standard"
-"","Fabrication","","","","","","","","","8.0000","JLC 4L 3313"
-"","Estimated total","","","","","","","","","48.6433",""
+Category,Designators,Description,MPN,JLCPCB part,Qty per PCB,Order qty,Total USD,Notes
+Component,"C1,C4",1uF25VX5R0402,CL05A105KA5NQNC,C52923,2,20,0.0920,
+Component,"C5,C6",2.2uF16VX5R0402,CL05A225KO5NQNC,C170151,2,20,0.3980,
+Component,C7,10uF25VX5R0603,CL10A106MA8NRNC,C96446,1,20,0.6520,
+Component,"C10,C11,C9",4.7uF16VX5R0402,CL05A475MO5NUNC,C318563,3,40,0.7760,
+Component,"C13,C15,C2,C3",100nF16VX7R0402,CL05B104KO5NNNC,C1525,4,40,0.1160,
+Component,C14,1nF100VC0G0402,0402B102K500NT,C1523,1,20,0.0340,
+Component,C16,6.8nF50VX7R0402,CC0402KRX7R9BB682,C93654,1,20,0.0240,
+Component,C17,2.7nF50VX7R0402,0402B272K500NT,C45185,1,20,0.0920,
+Component,"D1,D2",ESD321DPYR,ESD321DPYR,C2868952,2,8,0.8864,
+Component,DS1,WhiteLED,16-213SDRC/S530-A3/TR8,C71911,1,10,0.3280,
+Component,J1,2-pinright-angleheader,705530106,C588446,1,0,0.0000,Not ordered; cost excluded
+Component,J3,3-pinright-angleheader,705530002,C505296,1,0,0.0000,Not ordered; cost excluded
+Component,R1,1k0.1%62.5mW,0402WGF1001TCE,C11702,1,20,0.0220,
+Component,"R2,R4,R10,R11,R3",10k0.1%100mW / 10k1%62.5mW,0402WGF1002TCE,C25744,5,25,0.0225,Shared order line counted once
+Component,R5,3k1%62.5mW,0402WGF3001TCE,C25784,1,20,0.0260,
+Component,R6,18k1%62.5mW,0402WGF1802TCE,C25762,1,20,0.0260,
+Component,"R8,R9,R16,R17,R25",10M1%62.5mW,0402WGF1005TCE,C26082,5,20,0.0240,
+Component,"R12,R13",5.1k1%62.5mW,0402WGF5101TCE,C25905,2,20,0.0280,
+Component,"R14,R24",100k0.1%100mW,0402WGF1003TCE,C25741,2,20,0.0180,
+Component,"R19,R20",330k1%62.5mW,0402WGF3303TCE,C25778,2,20,0.0260,
+Component,R21,360k1%62.5mW,0402WGF3603TCE,C45956,1,20,0.0380,
+Component,"R22,R23,R27",1M1%62.5mW,0402WGF1004TCE,C26083,3,21,0.0210,
+Component,R26,332k1%333mW,0603WAF3323T5E,C23139,1,20,0.0340,
+Component,U1,BQ25185DLHR,BQ25185DLHR,C19725033,1,2,3.2864,
+Component,U2,MIC5528-3.3YMT-TR,MIC5528-3.3YMT-TR,C622490,1,2,1.0638,
+Component,U3,LSM6DSRTR,LSM6DSRTR,C784817,1,2,6.1438,
+Component,U4,HJ-840,HJ-840,C50052094,1,2,15.9238,
+Component,U5,AD8232ACPZ-R7,AD8232ACPZ-R7,C43216,1,2,13.4298,
+Component,U7,TYPE-C-31-M-12,TYPE-C-31-M-12,C165948,1,2,0.3738,
+Service,,PCB fabrication,,,,,8.0000,
+Service,,Setup fee,,,,,51.5000,
+Service,,Stencil,,,,,16.5400,
+Service,,Feeders loading fee,,,,,41.8500,
+Service,,SMT assembly,,,,,1.9600,
+Service,,X-ray inspection,,,,,6.6000,
+Service,,Packaging fee,,,,,0.5000,
